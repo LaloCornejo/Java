@@ -4,7 +4,7 @@ public class PruebaLabel {
     public static void main(String[] args) {
         LabelFrame marcoEtiqueta = new LabelFrame();
         marcoEtiqueta.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
-        marcoEtiqueta.setSize( 275, 180 );
+        marcoEtiqueta.setSize( 270, 180 );
         marcoEtiqueta.setVisible( true );
-    }    
+    }
 }
