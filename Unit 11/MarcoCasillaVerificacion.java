@@ -15,7 +15,7 @@ public class MarcoCasillaVerificacion extends JFrame {
         super("Prueba de JCheckBox");
         setLayout(new FlowLayout());
 
-        campoTexto = new JTextField("Ovserve como cambia el estilo de tipo de latra", 20);
+        campoTexto = new JTextField("Observa como cambia el tipo de letra", 20);
         campoTexto.setFont(new Font("Serif", Font.PLAIN, 14));
         add(campoTexto);
 
